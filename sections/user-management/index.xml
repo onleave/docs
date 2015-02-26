@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>User Management on OnLeave Documentation</title>
-    <link>http://docs.onleaveapp.com/sections/user-management/</link>
+    <link>http://onleave.github.io/docs/sections/user-management/</link>
     <description>Recent content in User Management on OnLeave Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Feb 2015 12:10:14 +1000</lastBuildDate>
-    <atom:link href="http://docs.onleaveapp.com/sections/user-management/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://onleave.github.io/docs/sections/user-management/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Change password</title>
-      <link>http://docs.onleaveapp.com/doc/change-password/</link>
+      <link>http://onleave.github.io/docs/doc/change-password/</link>
       <pubDate>Thu, 26 Feb 2015 12:10:14 +1000</pubDate>
       
-      <guid>http://docs.onleaveapp.com/doc/change-password/</guid>
+      <guid>http://onleave.github.io/docs/doc/change-password/</guid>
       <description>
 
 &lt;h2 id=&#34;change-password:7209fbd7c64db5c5afce5ecb01517527&#34;&gt;Change password&lt;/h2&gt;
@@ -61,10 +61,10 @@
     
     <item>
       <title>Edit user</title>
-      <link>http://docs.onleaveapp.com/doc/edit-user/</link>
+      <link>http://onleave.github.io/docs/doc/edit-user/</link>
       <pubDate>Thu, 26 Feb 2015 12:09:55 +1000</pubDate>
       
-      <guid>http://docs.onleaveapp.com/doc/edit-user/</guid>
+      <guid>http://onleave.github.io/docs/doc/edit-user/</guid>
       <description>
 
 &lt;h2 id=&#34;edit-user:b253a6575eb8aa584dcc62983c6f4700&#34;&gt;Edit user&lt;/h2&gt;
@@ -90,10 +90,10 @@
     
     <item>
       <title>Create new user</title>
-      <link>http://docs.onleaveapp.com/doc/create-new-user/</link>
+      <link>http://onleave.github.io/docs/doc/create-new-user/</link>
       <pubDate>Thu, 26 Feb 2015 12:08:42 +1000</pubDate>
       
-      <guid>http://docs.onleaveapp.com/doc/create-new-user/</guid>
+      <guid>http://onleave.github.io/docs/doc/create-new-user/</guid>
       <description>
 
 &lt;h2 id=&#34;create-new-user:674243874dc4754fc19ad3b70e491369&#34;&gt;Create new user&lt;/h2&gt;
