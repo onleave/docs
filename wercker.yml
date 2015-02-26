@@ -1,3 +1,10 @@
 box: wercker/default
-steps:
-  - arjen/hugo-build@1.0.2
+build:
+  steps:
+    - arjen/hugo-build@1.0.2
+deploy:
+  steps:
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: hugo-wercker.ig.nore.me
+        basedir: public
