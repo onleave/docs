@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Approver on OnLeave Documentation</title>
-    <link>http://onleave.github.io/docs/sections/approver/</link>
+    <link>http://docs.onleaveapp.com/sections/approver/</link>
     <description>Recent content in Approver on OnLeave Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Feb 2015 16:18:38 +1000</lastBuildDate>
-    <atom:link href="http://onleave.github.io/docs/sections/approver/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://docs.onleaveapp.com/sections/approver/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>change_approver</title>
-      <link>http://onleave.github.io/docs/doc/change_approver/</link>
+      <link>http://docs.onleaveapp.com/doc/change_approver/</link>
       <pubDate>Thu, 26 Feb 2015 16:18:38 +1000</pubDate>
       
-      <guid>http://onleave.github.io/docs/doc/change_approver/</guid>
+      <guid>http://docs.onleaveapp.com/doc/change_approver/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Edit Approver</title>
-      <link>http://onleave.github.io/docs/doc/edit_approver/</link>
+      <link>http://docs.onleaveapp.com/doc/edit_approver/</link>
       <pubDate>Thu, 26 Feb 2015 16:18:14 +1000</pubDate>
       
-      <guid>http://onleave.github.io/docs/doc/edit_approver/</guid>
+      <guid>http://docs.onleaveapp.com/doc/edit_approver/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Delete approver</title>
-      <link>http://onleave.github.io/docs/doc/delete-approver/</link>
+      <link>http://docs.onleaveapp.com/doc/delete-approver/</link>
       <pubDate>Thu, 26 Feb 2015 12:09:45 +1000</pubDate>
       
-      <guid>http://onleave.github.io/docs/doc/delete-approver/</guid>
+      <guid>http://docs.onleaveapp.com/doc/delete-approver/</guid>
       <description>
 
 &lt;h2 id=&#34;delete-approver:999dc9c65c0e8ac2544f75efc82e0777&#34;&gt;Delete Approver&lt;/h2&gt;
@@ -63,10 +63,10 @@
     
     <item>
       <title>Add approver</title>
-      <link>http://onleave.github.io/docs/doc/add-approver/</link>
+      <link>http://docs.onleaveapp.com/doc/add-approver/</link>
       <pubDate>Thu, 26 Feb 2015 12:09:35 +1000</pubDate>
       
-      <guid>http://onleave.github.io/docs/doc/add-approver/</guid>
+      <guid>http://docs.onleaveapp.com/doc/add-approver/</guid>
       <description>
 
 &lt;h2 id=&#34;add-approver:7c1f21f68421e8857e0462549710c5da&#34;&gt;Add approver&lt;/h2&gt;
@@ -77,7 +77,7 @@
 &lt;div class=&#34;step-item&#34;&gt;
 	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
 	&lt;div class=&#34;content&#34;&gt;
-	&lt;p&gt;Make sure you have created the user first. See &lt;a href=&#34;http://onleave.github.io/docs/docs/doc/apply-leave/&#34;&gt;Add user&lt;/a&gt; on how to do it.&lt;/p&gt;
+	&lt;p&gt;Make sure you have created the user first. See &lt;a href=&#34;http://docs.onleaveapp.com/doc/apply-leave/&#34;&gt;Add user&lt;/a&gt; on how to do it.&lt;/p&gt;
 
 	&lt;/div&gt;
 &lt;/div&gt;

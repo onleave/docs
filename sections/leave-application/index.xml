@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leave Application on OnLeave Documentation</title>
-    <link>http://onleave.github.io/docs/sections/leave-application/</link>
+    <link>http://docs.onleaveapp.com/sections/leave-application/</link>
     <description>Recent content in Leave Application on OnLeave Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Feb 2015 12:09:24 +1000</lastBuildDate>
-    <atom:link href="http://onleave.github.io/docs/sections/leave-application/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://docs.onleaveapp.com/sections/leave-application/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Search by keyword</title>
-      <link>http://onleave.github.io/docs/doc/search-by-keyword/</link>
+      <link>http://docs.onleaveapp.com/doc/search-by-keyword/</link>
       <pubDate>Thu, 26 Feb 2015 12:09:24 +1000</pubDate>
       
-      <guid>http://onleave.github.io/docs/doc/search-by-keyword/</guid>
+      <guid>http://docs.onleaveapp.com/doc/search-by-keyword/</guid>
       <description>
 
 &lt;h2 id=&#34;search-by-leave-id-fullname-email-description-and-leave-type:a38579fa159fda7206120226f634b749&#34;&gt;Search by leave id, fullname, email, description and leave type.&lt;/h2&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>Search by date</title>
-      <link>http://onleave.github.io/docs/doc/search-by-date/</link>
+      <link>http://docs.onleaveapp.com/doc/search-by-date/</link>
       <pubDate>Thu, 26 Feb 2015 12:09:14 +1000</pubDate>
       
-      <guid>http://onleave.github.io/docs/doc/search-by-date/</guid>
+      <guid>http://docs.onleaveapp.com/doc/search-by-date/</guid>
       <description>
 
 &lt;h2 id=&#34;search-by-date:83c68873851e8dff967e4da7d44e87a0&#34;&gt;Search by date&lt;/h2&gt;
@@ -81,10 +81,10 @@
     
     <item>
       <title>Delete leave</title>
-      <link>http://onleave.github.io/docs/doc/delete-leave/</link>
+      <link>http://docs.onleaveapp.com/doc/delete-leave/</link>
       <pubDate>Thu, 26 Feb 2015 12:09:05 +1000</pubDate>
       
-      <guid>http://onleave.github.io/docs/doc/delete-leave/</guid>
+      <guid>http://docs.onleaveapp.com/doc/delete-leave/</guid>
       <description>
 
 &lt;h2 id=&#34;delete-leave:bb98e5ca05190b2484fc5e7d6cee9a82&#34;&gt;Delete leave&lt;/h2&gt;
@@ -116,10 +116,10 @@ You can only delete leave before the applied date occured.  If you want to to de
     
     <item>
       <title>Edit leave application</title>
-      <link>http://onleave.github.io/docs/doc/edit-leave-application/</link>
+      <link>http://docs.onleaveapp.com/doc/edit-leave-application/</link>
       <pubDate>Thu, 26 Feb 2015 12:08:56 +1000</pubDate>
       
-      <guid>http://onleave.github.io/docs/doc/edit-leave-application/</guid>
+      <guid>http://docs.onleaveapp.com/doc/edit-leave-application/</guid>
       <description>
 
 &lt;h2 id=&#34;edit-leave-application:044eed7faa3ffa67c8ed93e5b4a119a4&#34;&gt;Edit leave application&lt;/h2&gt;
@@ -139,7 +139,7 @@ You can only delete leave before the applied date occured.  If you want to to de
 &lt;div class=&#34;step-item&#34;&gt;
 	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
 	&lt;div class=&#34;content&#34;&gt;
-	Apply again leave with the new date. See &lt;a href=&#34;http://onleave.github.io/docs/docs/doc/apply-leave/&#34;&gt;Apply leave&lt;/a&gt; section.
+	Apply again leave with the new date. See &lt;a href=&#34;http://docs.onleaveapp.com/doc/apply-leave/&#34;&gt;Apply leave&lt;/a&gt; section.
 	&lt;/div&gt;
 &lt;/div&gt;
 
@@ -149,10 +149,10 @@ You can only delete leave before the applied date occured.  If you want to to de
     
     <item>
       <title>Apply leave</title>
-      <link>http://onleave.github.io/docs/doc/apply-leave/</link>
+      <link>http://docs.onleaveapp.com/doc/apply-leave/</link>
       <pubDate>Thu, 26 Feb 2015 12:04:13 +1000</pubDate>
       
-      <guid>http://onleave.github.io/docs/doc/apply-leave/</guid>
+      <guid>http://docs.onleaveapp.com/doc/apply-leave/</guid>
       <description>
 
 &lt;h2 id=&#34;apply-leave:334addd4c27edffbfce436eafa8af97e&#34;&gt;Apply leave&lt;/h2&gt;

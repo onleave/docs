@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Subscription on OnLeave Documentation</title>
-    <link>http://onleave.github.io/docs/sections/subscription/</link>
+    <link>http://docs.onleaveapp.com/sections/subscription/</link>
     <description>Recent content in Subscription on OnLeave Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Feb 2015 16:24:51 +1000</lastBuildDate>
-    <atom:link href="http://onleave.github.io/docs/sections/subscription/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://docs.onleaveapp.com/sections/subscription/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>cancel_subscription</title>
-      <link>http://onleave.github.io/docs/doc/cancel_subscription/</link>
+      <link>http://docs.onleaveapp.com/doc/cancel_subscription/</link>
       <pubDate>Thu, 26 Feb 2015 16:24:51 +1000</pubDate>
       
-      <guid>http://onleave.github.io/docs/doc/cancel_subscription/</guid>
+      <guid>http://docs.onleaveapp.com/doc/cancel_subscription/</guid>
       <description></description>
     </item>
     
     <item>
       <title>change_subscription</title>
-      <link>http://onleave.github.io/docs/doc/change_subscription/</link>
+      <link>http://docs.onleaveapp.com/doc/change_subscription/</link>
       <pubDate>Thu, 26 Feb 2015 16:24:44 +1000</pubDate>
       
-      <guid>http://onleave.github.io/docs/doc/change_subscription/</guid>
+      <guid>http://docs.onleaveapp.com/doc/change_subscription/</guid>
       <description></description>
     </item>
     
