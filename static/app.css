@@ -1,0 +1,114 @@
+/*.navbar-default {*/
+/*background-color: #A8C545;*/
+/*border-color: #037D4D;*/
+/*}*/
+
+/*.navbar-default .navbar-nav>li>a {*/
+/*color: #fff;*/
+/*}*/
+
+.navbar-brand {
+    width: 180px;
+    height: 50px;
+
+    background: url('images/logo-header.png') no-repeat center;
+    background-size: 141px 28px;
+}
+
+/* for high resolution display */
+@media only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+    .navbar-brand {
+        width: 180px;
+        height: 50px;
+
+        background: url('images/logo-header-2x.png') no-repeat center;
+        background-size: 141px 28px;
+    }
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.sub-doc {
+    font-family: 'Open Sans', sans-serif;
+    color: #666;
+    /*letter-spacing: 0.1em;*/
+}
+
+#sidebar-wide {
+    padding: 30px;
+
+}
+
+#content-wide {
+    padding: 30px;
+
+}
+
+.list-unstyled {
+    margin-left: 15px;
+}
+
+.list-unstyled li {
+    margin-bottom: 20px;
+}
+
+#sidebar-wide h3 {
+    font-size: 20px;
+    margin-top: 0;
+    padding-bottom: 10px;
+}
+
+.sidebar-seperator {
+    padding-bottom: 20px;
+}
+
+.bold-padding {
+    padding-bottom: 40px;
+}
+
+.main-doc {
+    font-family: 'Open Sans', sans-serif;
+    color: #666;
+}
+
+.main-doc .hero-quickstart {
+    padding: 10px;
+    /*margin:30px 0 30px 0;*/
+    text-align: center;
+    background-color: #f8f8f8;
+
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+}
+
+.steps .step-item {
+    margin: 40px 0 30px 0;
+    line-height: 1.8em;
+}
+
+.steps .step-item .numbering {
+    float:left;
+    font-size:20px;
+}
+
+
+.steps .step-item .numbering .dotted {
+    color:#FBC01D;
+}
+
+
+.steps .step-item .content {
+    margin-left:30px;
+}
+
+.tips {
+    color:#000;
+    padding: 30px;
+    background-color: #f8f8f8;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+}

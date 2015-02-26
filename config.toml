@@ -1,0 +1,8 @@
+baseurl = "http://docs.onleaveapp.com/"
+languageCode = "en-us"
+title = "OnLeave Documentation"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  section = "sections"
