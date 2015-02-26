@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OnLeave Documentation</title>
+    <link>http://docs.onleaveapp.com/</link>
+    <description>Recent content on OnLeave Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Feb 2015 16:26:44 +1000</lastBuildDate>
+    <atom:link href="http://docs.onleaveapp.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>delete_department</title>
+      <link>http://docs.onleaveapp.com/doc/delete_department/</link>
+      <pubDate>Thu, 26 Feb 2015 16:26:44 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/delete_department/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>edit_department</title>
+      <link>http://docs.onleaveapp.com/doc/edit_department/</link>
+      <pubDate>Thu, 26 Feb 2015 16:26:34 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/edit_department/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>add_department</title>
+      <link>http://docs.onleaveapp.com/doc/add_department/</link>
+      <pubDate>Thu, 26 Feb 2015 16:26:28 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/add_department/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cancel_subscription</title>
+      <link>http://docs.onleaveapp.com/doc/cancel_subscription/</link>
+      <pubDate>Thu, 26 Feb 2015 16:24:51 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/cancel_subscription/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>change_subscription</title>
+      <link>http://docs.onleaveapp.com/doc/change_subscription/</link>
+      <pubDate>Thu, 26 Feb 2015 16:24:44 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/change_subscription/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>change_approver</title>
+      <link>http://docs.onleaveapp.com/doc/change_approver/</link>
+      <pubDate>Thu, 26 Feb 2015 16:18:38 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/change_approver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edit Approver</title>
+      <link>http://docs.onleaveapp.com/doc/edit_approver/</link>
+      <pubDate>Thu, 26 Feb 2015 16:18:14 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/edit_approver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change password</title>
+      <link>http://docs.onleaveapp.com/doc/change-password/</link>
+      <pubDate>Thu, 26 Feb 2015 12:10:14 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/change-password/</guid>
+      <description>
+
+&lt;h2 id=&#34;change-password:7209fbd7c64db5c5afce5ecb01517527&#34;&gt;Change password&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	&lt;p&gt;Go to &lt;strong&gt;Account -&amp;gt; Settings&lt;/strong&gt; and click &lt;strong&gt;Profile&lt;/strong&gt;&lt;/p&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	&lt;p&gt;Click &lt;strong&gt;Change password&lt;/strong&gt; link.&lt;/p&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	&lt;p&gt;Insert the new password into both &lt;em&gt;password&lt;/em&gt; and &lt;em&gt;confirm password&lt;/em&gt; field.&lt;/p&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;4&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	&lt;p&gt;Click &lt;strong&gt;Update&lt;/strong&gt; button.&lt;/p&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Edit user</title>
+      <link>http://docs.onleaveapp.com/doc/edit-user/</link>
+      <pubDate>Thu, 26 Feb 2015 12:09:55 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/edit-user/</guid>
+      <description>
+
+&lt;h2 id=&#34;edit-user:b253a6575eb8aa584dcc62983c6f4700&#34;&gt;Edit user&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Go to &lt;strong&gt;Account -&amp;gt; Settings&lt;/strong&gt; and click &lt;strong&gt;Manage Users&lt;/strong&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click edit icon on the most right of the user row.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Delete approver</title>
+      <link>http://docs.onleaveapp.com/doc/delete-approver/</link>
+      <pubDate>Thu, 26 Feb 2015 12:09:45 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/delete-approver/</guid>
+      <description>
+
+&lt;h2 id=&#34;delete-approver:999dc9c65c0e8ac2544f75efc82e0777&#34;&gt;Delete Approver&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	&lt;p&gt;Go to &lt;strong&gt;Account -&amp;gt; Settings -&amp;gt; Approvers&lt;/strong&gt;&lt;/p&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	&lt;p&gt;Click &lt;strong&gt;trash bin&lt;/strong&gt; icon on the right of approver name.&lt;/p&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Add approver</title>
+      <link>http://docs.onleaveapp.com/doc/add-approver/</link>
+      <pubDate>Thu, 26 Feb 2015 12:09:35 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/add-approver/</guid>
+      <description>
+
+&lt;h2 id=&#34;add-approver:7c1f21f68421e8857e0462549710c5da&#34;&gt;Add approver&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	&lt;p&gt;Make sure you have created the user first. See &lt;a href=&#34;http://docs.onleaveapp.com/doc/apply-leave/&#34;&gt;Add user&lt;/a&gt; on how to do it.&lt;/p&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	&lt;p&gt;Go to &lt;strong&gt;Account -&amp;gt; Settings -&amp;gt; Approvers&lt;/strong&gt; and click &lt;strong&gt;Add approver&lt;/strong&gt; button.&lt;/p&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	&lt;p&gt;Select the user that you want to set as approver.&lt;/p&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;4&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	&lt;p&gt;Click &lt;strong&gt;Assign&lt;/strong&gt; button&lt;/p&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Search by keyword</title>
+      <link>http://docs.onleaveapp.com/doc/search-by-keyword/</link>
+      <pubDate>Thu, 26 Feb 2015 12:09:24 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/search-by-keyword/</guid>
+      <description>
+
+&lt;h2 id=&#34;search-by-leave-id-fullname-email-description-and-leave-type:a38579fa159fda7206120226f634b749&#34;&gt;Search by leave id, fullname, email, description and leave type.&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;strong&gt;Dashboard&lt;/strong&gt; on the menu item.
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Insert search term in the &lt;em&gt;search&lt;/em&gt; field.
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Press &lt;em&gt;enter&lt;/em&gt; to search.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Search by date</title>
+      <link>http://docs.onleaveapp.com/doc/search-by-date/</link>
+      <pubDate>Thu, 26 Feb 2015 12:09:14 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/search-by-date/</guid>
+      <description>
+
+&lt;h2 id=&#34;search-by-date:83c68873851e8dff967e4da7d44e87a0&#34;&gt;Search by date&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	To search leave by date click &lt;strong&gt;Calendar&lt;/strong&gt; from the menu bar.
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click left arrow or right arrow to change month.
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	You can click on the name in the calendar to view more details.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Delete leave</title>
+      <link>http://docs.onleaveapp.com/doc/delete-leave/</link>
+      <pubDate>Thu, 26 Feb 2015 12:09:05 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/delete-leave/</guid>
+      <description>
+
+&lt;h2 id=&#34;delete-leave:bb98e5ca05190b2484fc5e7d6cee9a82&#34;&gt;Delete leave&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;strong&gt;Dashboard&lt;/strong&gt; on the menu bar.
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;strong&gt;trash bin&lt;/strong&gt; icon on the top of right corner application panel.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;tips&#34;&gt;
+	&lt;i&gt;Tips:&lt;/i&gt;  
+You can only delete leave before the applied date occured.  If you want to to delete past dates, you need to contact your administrator to delete for you.
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Edit leave application</title>
+      <link>http://docs.onleaveapp.com/doc/edit-leave-application/</link>
+      <pubDate>Thu, 26 Feb 2015 12:08:56 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/edit-leave-application/</guid>
+      <description>
+
+&lt;h2 id=&#34;edit-leave-application:044eed7faa3ffa67c8ed93e5b4a119a4&#34;&gt;Edit leave application&lt;/h2&gt;
+
+&lt;p&gt;You cannot edit existing leave application.  This is on purpose to make sure no leave application accenditally altered without approver notification.&lt;/p&gt;
+
+&lt;p&gt;The best way is by delete existing application and apply a new one.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;strong&gt;trash bin&lt;/strong&gt; icon on the top right corner application panel.
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Apply again leave with the new date. See &lt;a href=&#34;http://docs.onleaveapp.com/doc/apply-leave/&#34;&gt;Apply leave&lt;/a&gt; section.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
