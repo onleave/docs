@@ -10,30 +10,128 @@
     <atom:link href="http://docs.onleaveapp.com/sections/department/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>delete_department</title>
-      <link>http://docs.onleaveapp.com/doc/delete_department/</link>
+      <title>Delete department</title>
+      <link>http://docs.onleaveapp.com/doc/delete-department/</link>
       <pubDate>Thu, 26 Feb 2015 16:26:44 +1000</pubDate>
       
-      <guid>http://docs.onleaveapp.com/doc/delete_department/</guid>
-      <description></description>
+      <guid>http://docs.onleaveapp.com/doc/delete-department/</guid>
+      <description>
+
+&lt;h2 id=&#34;delete-department:7ce8ca66c419c314d068c5ab85d4f697&#34;&gt;Delete department&lt;/h2&gt;
+
+&lt;p&gt;Keep in mind, you cannot delete &lt;strong&gt;General&lt;/strong&gt; department as it is the default one if no other department exist.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Go to &lt;strong&gt;Account -&amp;gt; Settings&lt;/strong&gt; and click &lt;strong&gt;Departments&lt;/strong&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Hover your mouse over the department name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;em&gt;trash&lt;/em&gt; icon at the left side of the department name.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>edit_department</title>
-      <link>http://docs.onleaveapp.com/doc/edit_department/</link>
+      <title>Edit department</title>
+      <link>http://docs.onleaveapp.com/doc/edit-department/</link>
       <pubDate>Thu, 26 Feb 2015 16:26:34 +1000</pubDate>
       
-      <guid>http://docs.onleaveapp.com/doc/edit_department/</guid>
-      <description></description>
+      <guid>http://docs.onleaveapp.com/doc/edit-department/</guid>
+      <description>
+
+&lt;h2 id=&#34;edit-department:4246891cb407880d0adce918685e4cf9&#34;&gt;Edit department&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Go to &lt;strong&gt;Account -&amp;gt; Settings&lt;/strong&gt; and click &lt;strong&gt;Departments&lt;/strong&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Hover your mouse over the department name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;em&gt;edit&lt;/em&gt; icon at the left side of the department name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;4&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Insert a new department name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;5&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;strong&gt;Save&lt;/strong&gt; button.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>add_department</title>
-      <link>http://docs.onleaveapp.com/doc/add_department/</link>
+      <title>Add department</title>
+      <link>http://docs.onleaveapp.com/doc/add-department/</link>
       <pubDate>Thu, 26 Feb 2015 16:26:28 +1000</pubDate>
       
-      <guid>http://docs.onleaveapp.com/doc/add_department/</guid>
-      <description></description>
+      <guid>http://docs.onleaveapp.com/doc/add-department/</guid>
+      <description>
+
+&lt;h2 id=&#34;add-department:bc7f87406d0abc1eb255bdcadcd7320a&#34;&gt;Add department&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Go to &lt;strong&gt;Account -&amp;gt; Settings&lt;/strong&gt; and click &lt;strong&gt;Departments&lt;/strong&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;strong&gt;Add department&lt;/strong&gt; button.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Insert a new department name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;4&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;strong&gt;Add&lt;/strong&gt; button.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

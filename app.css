@@ -36,6 +36,10 @@
     /*letter-spacing: 0.1em;*/
 }
 
+.sub-doc h2{
+    margin-bottom: 30px;
+}
+
 #sidebar-wide {
     padding: 30px;
 
@@ -82,6 +86,10 @@
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
     border-radius: 8px;
+}
+
+.main-doc .hero-quickstart h3{
+    margin-bottom: 20px;
 }
 
 .steps .step-item {

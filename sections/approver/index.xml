@@ -10,21 +10,91 @@
     <atom:link href="http://docs.onleaveapp.com/sections/approver/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>change_approver</title>
-      <link>http://docs.onleaveapp.com/doc/change_approver/</link>
+      <title>Change approver</title>
+      <link>http://docs.onleaveapp.com/doc/change-approver/</link>
       <pubDate>Thu, 26 Feb 2015 16:18:38 +1000</pubDate>
       
-      <guid>http://docs.onleaveapp.com/doc/change_approver/</guid>
-      <description></description>
+      <guid>http://docs.onleaveapp.com/doc/change-approver/</guid>
+      <description>
+
+&lt;h2 id=&#34;change-approver:c005409632a32c8e9f140a40ab76ea64&#34;&gt;Change approver&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Go to &lt;strong&gt;Account -&amp;gt; Settings&lt;/strong&gt; and click &lt;strong&gt;Approvers&lt;/strong&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Hover your mouse over the approver name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;em&gt;trash&lt;/em&gt; icon at the left side of the approver name. This will delete the approver from the department.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;4&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Follow steps in &lt;a href=&#34;http://docs.onleaveapp.com/doc/add-approver/&#34;&gt;Add approver&lt;/a&gt; to add a new approver.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Edit Approver</title>
-      <link>http://docs.onleaveapp.com/doc/edit_approver/</link>
+      <link>http://docs.onleaveapp.com/doc/edit-approver/</link>
       <pubDate>Thu, 26 Feb 2015 16:18:14 +1000</pubDate>
       
-      <guid>http://docs.onleaveapp.com/doc/edit_approver/</guid>
-      <description></description>
+      <guid>http://docs.onleaveapp.com/doc/edit-approver/</guid>
+      <description>
+
+&lt;h2 id=&#34;edit-approver:ee4ecf17b4ad19f2280482fb3fbe8058&#34;&gt;Edit approver&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Go to &lt;strong&gt;Account -&amp;gt; Settings&lt;/strong&gt; and click &lt;strong&gt;Approvers&lt;/strong&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Hover your mouse over the approver name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;em&gt;edit&lt;/em&gt; icon at the left side of the approver name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;4&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Insert a new approver name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;5&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;strong&gt;Save&lt;/strong&gt; button.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>

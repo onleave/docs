@@ -6,70 +6,362 @@
     <description>Recent content on OnLeave Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Feb 2015 16:26:44 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2015 15:46:52 +1000</lastBuildDate>
     <atom:link href="http://docs.onleaveapp.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>delete_department</title>
-      <link>http://docs.onleaveapp.com/doc/delete_department/</link>
+      <title>Norrmal user</title>
+      <link>http://docs.onleaveapp.com/doc/normal-user/</link>
+      <pubDate>Sat, 28 Feb 2015 15:46:52 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/normal-user/</guid>
+      <description>
+
+&lt;h2 id=&#34;normal-user:97590e38f22a4fa5fca0cde54d34000b&#34;&gt;Normal user&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	You need to have request login information from your administrator first.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Once you have the login information, go to &lt;a href=&#34;http://app.onleaveapp.com/auth/login/&#34;&gt;sign in page&lt;/a&gt; and enter company, email and password. Click &lt;strong&gt;Sign in&lt;/strong&gt; button.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	You may start apply leave by clicking &lt;strong&gt;Apply leave&lt;/strong&gt; button.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Administrator quickstart</title>
+      <link>http://docs.onleaveapp.com/doc/administrator/</link>
+      <pubDate>Sat, 28 Feb 2015 15:46:47 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/administrator/</guid>
+      <description>
+
+&lt;h2 id=&#34;administrator:299d6de3cacd672fc956a4426eb0e4d4&#34;&gt;Administrator&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	&lt;a href=&#34;http://app.onleaveapp.com/auth/signup&#34;&gt;Sign up&lt;/a&gt; an account first.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Now you may add staff/normal user by following the step in &lt;a href=&#34;http://docs.onleaveapp.com/doc/create-new-user/&#34;&gt;Create new user&lt;/a&gt;.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	After that, you need to create approver. See &lt;a href=&#34;http://docs.onleaveapp.com/doc/add-approver/&#34;&gt;Add approver&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;4&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	&lt;em&gt;This step is optional&lt;/em&gt;. If you want to create a department, you may follow the steps in &lt;a href=&#34;http://docs.onleaveapp.com/doc/add-department/&#34;&gt;Add department&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Delete department</title>
+      <link>http://docs.onleaveapp.com/doc/delete-department/</link>
       <pubDate>Thu, 26 Feb 2015 16:26:44 +1000</pubDate>
       
-      <guid>http://docs.onleaveapp.com/doc/delete_department/</guid>
-      <description></description>
+      <guid>http://docs.onleaveapp.com/doc/delete-department/</guid>
+      <description>
+
+&lt;h2 id=&#34;delete-department:7ce8ca66c419c314d068c5ab85d4f697&#34;&gt;Delete department&lt;/h2&gt;
+
+&lt;p&gt;Keep in mind, you cannot delete &lt;strong&gt;General&lt;/strong&gt; department as it is the default one if no other department exist.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Go to &lt;strong&gt;Account -&amp;gt; Settings&lt;/strong&gt; and click &lt;strong&gt;Departments&lt;/strong&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Hover your mouse over the department name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;em&gt;trash&lt;/em&gt; icon at the left side of the department name.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>edit_department</title>
-      <link>http://docs.onleaveapp.com/doc/edit_department/</link>
+      <title>Edit department</title>
+      <link>http://docs.onleaveapp.com/doc/edit-department/</link>
       <pubDate>Thu, 26 Feb 2015 16:26:34 +1000</pubDate>
       
-      <guid>http://docs.onleaveapp.com/doc/edit_department/</guid>
-      <description></description>
+      <guid>http://docs.onleaveapp.com/doc/edit-department/</guid>
+      <description>
+
+&lt;h2 id=&#34;edit-department:4246891cb407880d0adce918685e4cf9&#34;&gt;Edit department&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Go to &lt;strong&gt;Account -&amp;gt; Settings&lt;/strong&gt; and click &lt;strong&gt;Departments&lt;/strong&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Hover your mouse over the department name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;em&gt;edit&lt;/em&gt; icon at the left side of the department name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;4&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Insert a new department name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;5&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;strong&gt;Save&lt;/strong&gt; button.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>add_department</title>
-      <link>http://docs.onleaveapp.com/doc/add_department/</link>
+      <title>Add department</title>
+      <link>http://docs.onleaveapp.com/doc/add-department/</link>
       <pubDate>Thu, 26 Feb 2015 16:26:28 +1000</pubDate>
       
-      <guid>http://docs.onleaveapp.com/doc/add_department/</guid>
-      <description></description>
+      <guid>http://docs.onleaveapp.com/doc/add-department/</guid>
+      <description>
+
+&lt;h2 id=&#34;add-department:bc7f87406d0abc1eb255bdcadcd7320a&#34;&gt;Add department&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Go to &lt;strong&gt;Account -&amp;gt; Settings&lt;/strong&gt; and click &lt;strong&gt;Departments&lt;/strong&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;strong&gt;Add department&lt;/strong&gt; button.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Insert a new department name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;4&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;strong&gt;Add&lt;/strong&gt; button.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>cancel_subscription</title>
-      <link>http://docs.onleaveapp.com/doc/cancel_subscription/</link>
+      <title>Cancel subscription</title>
+      <link>http://docs.onleaveapp.com/doc/cancel-subscription/</link>
       <pubDate>Thu, 26 Feb 2015 16:24:51 +1000</pubDate>
       
-      <guid>http://docs.onleaveapp.com/doc/cancel_subscription/</guid>
-      <description></description>
+      <guid>http://docs.onleaveapp.com/doc/cancel-subscription/</guid>
+      <description>
+
+&lt;h2 id=&#34;cancel-subscription:c8dedca3969ce72e7f4caeb43827ee8d&#34;&gt;Cancel subscription&lt;/h2&gt;
+
+&lt;p&gt;This steps is applicable if you already entered your credit card information.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Go to &lt;strong&gt;Account -&amp;gt; Settings&lt;/strong&gt; and click &lt;strong&gt;Subscription Plan&lt;/strong&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;strong&gt;Billing information&lt;/strong&gt; link on your selected plan.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;strong&gt;Cancel Subscription&lt;/strong&gt; button.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>change_subscription</title>
-      <link>http://docs.onleaveapp.com/doc/change_subscription/</link>
+      <title>Change subscription</title>
+      <link>http://docs.onleaveapp.com/doc/change-subscription/</link>
       <pubDate>Thu, 26 Feb 2015 16:24:44 +1000</pubDate>
       
-      <guid>http://docs.onleaveapp.com/doc/change_subscription/</guid>
-      <description></description>
+      <guid>http://docs.onleaveapp.com/doc/change-subscription/</guid>
+      <description>
+
+&lt;h2 id=&#34;change-subscription:9e31f39c5e5b43d36420ba8ac932deb4&#34;&gt;Change subscription&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Go to &lt;strong&gt;Account -&amp;gt; Settings&lt;/strong&gt; and click &lt;strong&gt;Subscription Plan&lt;/strong&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Choose any plan that you want to upgrade or downgrade.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>change_approver</title>
-      <link>http://docs.onleaveapp.com/doc/change_approver/</link>
+      <title>Change approver</title>
+      <link>http://docs.onleaveapp.com/doc/change-approver/</link>
       <pubDate>Thu, 26 Feb 2015 16:18:38 +1000</pubDate>
       
-      <guid>http://docs.onleaveapp.com/doc/change_approver/</guid>
-      <description></description>
+      <guid>http://docs.onleaveapp.com/doc/change-approver/</guid>
+      <description>
+
+&lt;h2 id=&#34;change-approver:c005409632a32c8e9f140a40ab76ea64&#34;&gt;Change approver&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Go to &lt;strong&gt;Account -&amp;gt; Settings&lt;/strong&gt; and click &lt;strong&gt;Approvers&lt;/strong&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Hover your mouse over the approver name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;em&gt;trash&lt;/em&gt; icon at the left side of the approver name. This will delete the approver from the department.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;4&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Follow steps in &lt;a href=&#34;http://docs.onleaveapp.com/doc/add-approver/&#34;&gt;Add approver&lt;/a&gt; to add a new approver.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Edit Approver</title>
-      <link>http://docs.onleaveapp.com/doc/edit_approver/</link>
+      <link>http://docs.onleaveapp.com/doc/edit-approver/</link>
       <pubDate>Thu, 26 Feb 2015 16:18:14 +1000</pubDate>
       
-      <guid>http://docs.onleaveapp.com/doc/edit_approver/</guid>
-      <description></description>
+      <guid>http://docs.onleaveapp.com/doc/edit-approver/</guid>
+      <description>
+
+&lt;h2 id=&#34;edit-approver:ee4ecf17b4ad19f2280482fb3fbe8058&#34;&gt;Edit approver&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Go to &lt;strong&gt;Account -&amp;gt; Settings&lt;/strong&gt; and click &lt;strong&gt;Approvers&lt;/strong&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Hover your mouse over the approver name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;em&gt;edit&lt;/em&gt; icon at the left side of the approver name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;4&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Insert a new approver name.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;5&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;strong&gt;Save&lt;/strong&gt; button.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -298,74 +590,6 @@
 	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
 	&lt;div class=&#34;content&#34;&gt;
 	You can click on the name in the calendar to view more details.
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Delete leave</title>
-      <link>http://docs.onleaveapp.com/doc/delete-leave/</link>
-      <pubDate>Thu, 26 Feb 2015 12:09:05 +1000</pubDate>
-      
-      <guid>http://docs.onleaveapp.com/doc/delete-leave/</guid>
-      <description>
-
-&lt;h2 id=&#34;delete-leave:bb98e5ca05190b2484fc5e7d6cee9a82&#34;&gt;Delete leave&lt;/h2&gt;
-
-&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
- 
-&lt;div class=&#34;step-item&#34;&gt;
-	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
-	&lt;div class=&#34;content&#34;&gt;
-	Click &lt;strong&gt;Dashboard&lt;/strong&gt; on the menu bar.
-	&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;step-item&#34;&gt;
-	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
-	&lt;div class=&#34;content&#34;&gt;
-	Click &lt;strong&gt;trash bin&lt;/strong&gt; icon on the top of right corner application panel.
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;tips&#34;&gt;
-	&lt;i&gt;Tips:&lt;/i&gt;  
-You can only delete leave before the applied date occured.  If you want to to delete past dates, you need to contact your administrator to delete for you.
-
-&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Edit leave application</title>
-      <link>http://docs.onleaveapp.com/doc/edit-leave-application/</link>
-      <pubDate>Thu, 26 Feb 2015 12:08:56 +1000</pubDate>
-      
-      <guid>http://docs.onleaveapp.com/doc/edit-leave-application/</guid>
-      <description>
-
-&lt;h2 id=&#34;edit-leave-application:044eed7faa3ffa67c8ed93e5b4a119a4&#34;&gt;Edit leave application&lt;/h2&gt;
-
-&lt;p&gt;You cannot edit existing leave application.  This is on purpose to make sure no leave application accenditally altered without approver notification.&lt;/p&gt;
-
-&lt;p&gt;The best way is by delete existing application and apply a new one.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
- 
-&lt;div class=&#34;step-item&#34;&gt;
-	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
-	&lt;div class=&#34;content&#34;&gt;
-	Click &lt;strong&gt;trash bin&lt;/strong&gt; icon on the top right corner application panel.
-	&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;step-item&#34;&gt;
-	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
-	&lt;div class=&#34;content&#34;&gt;
-	Apply again leave with the new date. See &lt;a href=&#34;http://docs.onleaveapp.com/doc/apply-leave/&#34;&gt;Apply leave&lt;/a&gt; section.
 	&lt;/div&gt;
 &lt;/div&gt;
 

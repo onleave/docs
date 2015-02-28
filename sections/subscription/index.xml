@@ -10,21 +10,69 @@
     <atom:link href="http://docs.onleaveapp.com/sections/subscription/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>cancel_subscription</title>
-      <link>http://docs.onleaveapp.com/doc/cancel_subscription/</link>
+      <title>Cancel subscription</title>
+      <link>http://docs.onleaveapp.com/doc/cancel-subscription/</link>
       <pubDate>Thu, 26 Feb 2015 16:24:51 +1000</pubDate>
       
-      <guid>http://docs.onleaveapp.com/doc/cancel_subscription/</guid>
-      <description></description>
+      <guid>http://docs.onleaveapp.com/doc/cancel-subscription/</guid>
+      <description>
+
+&lt;h2 id=&#34;cancel-subscription:c8dedca3969ce72e7f4caeb43827ee8d&#34;&gt;Cancel subscription&lt;/h2&gt;
+
+&lt;p&gt;This steps is applicable if you already entered your credit card information.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Go to &lt;strong&gt;Account -&amp;gt; Settings&lt;/strong&gt; and click &lt;strong&gt;Subscription Plan&lt;/strong&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;strong&gt;Billing information&lt;/strong&gt; link on your selected plan.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Click &lt;strong&gt;Cancel Subscription&lt;/strong&gt; button.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>change_subscription</title>
-      <link>http://docs.onleaveapp.com/doc/change_subscription/</link>
+      <title>Change subscription</title>
+      <link>http://docs.onleaveapp.com/doc/change-subscription/</link>
       <pubDate>Thu, 26 Feb 2015 16:24:44 +1000</pubDate>
       
-      <guid>http://docs.onleaveapp.com/doc/change_subscription/</guid>
-      <description></description>
+      <guid>http://docs.onleaveapp.com/doc/change-subscription/</guid>
+      <description>
+
+&lt;h2 id=&#34;change-subscription:9e31f39c5e5b43d36420ba8ac932deb4&#34;&gt;Change subscription&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Go to &lt;strong&gt;Account -&amp;gt; Settings&lt;/strong&gt; and click &lt;strong&gt;Subscription Plan&lt;/strong&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Choose any plan that you want to upgrade or downgrade.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

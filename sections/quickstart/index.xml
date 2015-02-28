@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quickstart on OnLeave Documentation</title>
+    <link>http://docs.onleaveapp.com/sections/quickstart/</link>
+    <description>Recent content in Quickstart on OnLeave Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Feb 2015 15:46:52 +1000</lastBuildDate>
+    <atom:link href="http://docs.onleaveapp.com/sections/quickstart/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Norrmal user</title>
+      <link>http://docs.onleaveapp.com/doc/normal-user/</link>
+      <pubDate>Sat, 28 Feb 2015 15:46:52 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/normal-user/</guid>
+      <description>
+
+&lt;h2 id=&#34;normal-user:97590e38f22a4fa5fca0cde54d34000b&#34;&gt;Normal user&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	You need to have request login information from your administrator first.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Once you have the login information, go to &lt;a href=&#34;http://app.onleaveapp.com/auth/login/&#34;&gt;sign in page&lt;/a&gt; and enter company, email and password. Click &lt;strong&gt;Sign in&lt;/strong&gt; button.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	You may start apply leave by clicking &lt;strong&gt;Apply leave&lt;/strong&gt; button.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Administrator quickstart</title>
+      <link>http://docs.onleaveapp.com/doc/administrator/</link>
+      <pubDate>Sat, 28 Feb 2015 15:46:47 +1000</pubDate>
+      
+      <guid>http://docs.onleaveapp.com/doc/administrator/</guid>
+      <description>
+
+&lt;h2 id=&#34;administrator:299d6de3cacd672fc956a4426eb0e4d4&#34;&gt;Administrator&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;steps&#34;&gt;
+ 
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;1&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	&lt;a href=&#34;http://app.onleaveapp.com/auth/signup&#34;&gt;Sign up&lt;/a&gt; an account first.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;2&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	Now you may add staff/normal user by following the step in &lt;a href=&#34;http://docs.onleaveapp.com/doc/create-new-user/&#34;&gt;Create new user&lt;/a&gt;.
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;3&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	After that, you need to create approver. See &lt;a href=&#34;http://docs.onleaveapp.com/doc/add-approver/&#34;&gt;Add approver&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;step-item&#34;&gt;
+	&lt;div class=&#34;numbering&#34;&gt;4&lt;span class=&#34;dotted&#34;&gt;.&lt;/span&gt;&lt;/div&gt;
+	&lt;div class=&#34;content&#34;&gt;
+	&lt;em&gt;This step is optional&lt;/em&gt;. If you want to create a department, you may follow the steps in &lt;a href=&#34;http://docs.onleaveapp.com/doc/add-department/&#34;&gt;Add department&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
